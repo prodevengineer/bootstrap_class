@@ -1,0 +1,32 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #A6ACAF;
+    font-size: x-large;
+    color: #34495E;
+}
+
+.about-us{
+    background-color: goldenrod;  
+    color: black
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.our-partners{
+    background-color: #34495E;
+    color: #ECF0F1;
+}
+
+.our-services{
+    background-color:#BDDBD0;
+}
+.bg-footer{
+    background-color: #CBD0B9;
+    font-size: large;
+}
